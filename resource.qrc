@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/opengl/shader">
+        <file>shader_axis.fs</file>
+        <file>shader_axis.vs</file>
+        <file>shader_mesh.fs</file>
+        <file>shader_mesh.vs</file>
+        <file>gaoda.mtl</file>
+        <file>gaoda.obj</file>
+        <file>shader_obj.fs</file>
+        <file>shader_obj.vs</file>
+        <file>truck.mtl</file>
+        <file>truck.obj</file>
+        <file>shader_truck.vs</file>
+        <file>shader_truck.fs</file>
+    </qresource>
+</RCC>
